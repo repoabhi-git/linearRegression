@@ -10,8 +10,6 @@ This project demonstrates the implementation of Simple Linear Regression using P
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
@@ -26,3 +24,26 @@ The project uses a dataset (`Salary_Data.csv`) to predict salary based on years 
 4. **Training Model:** The Simple Linear Regression model is trained on the training set using scikit-learn's `LinearRegression`.
 
 5. **Predictions:** The model predicts the salaries on the test set, and the results are visualized.
+## Installation
+
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/repoabhi-git/simple-linear-regression.git
+Install the required libraries:
+
+bash
+Copy code
+pip install numpy matplotlib pandas scikit-learn
+Run the Python script:
+
+bash
+Copy code
+python your_script_name.py
+Usage
+Modify the script as needed or use it as a template for your own Simple Linear Regression tasks. Ensure that you have a dataset in the same format as Salary_Data.csv for training and testing.
+
+##Results
+The project visualizes the training set and test set results using Matplotlib. The scatter plots and regression lines provide insights into the relationship between years of experience and salary.
