@@ -42,8 +42,8 @@ Run the Python script:
 bash
 Copy code
 python your_script_name.py
-Usage
+## Usage
 Modify the script as needed or use it as a template for your own Simple Linear Regression tasks. Ensure that you have a dataset in the same format as Salary_Data.csv for training and testing.
 
-##Results
+## Results
 The project visualizes the training set and test set results using Matplotlib. The scatter plots and regression lines provide insights into the relationship between years of experience and salary.
