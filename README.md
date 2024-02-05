@@ -41,7 +41,7 @@ Run the Python script:
 
 bash
 Copy code
-python your_script_name.py
+python simple_linear_regression.py
 ## Usage
 Modify the script as needed or use it as a template for your own Simple Linear Regression tasks. Ensure that you have a dataset in the same format as Salary_Data.csv for training and testing.
 
